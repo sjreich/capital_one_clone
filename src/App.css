@@ -1,0 +1,46 @@
+h1 {
+  margin: 0;
+}
+
+.Overall-header {
+  background-color: red;
+  height: 50px;
+  color: white;
+  padding: 15px 0 10px 0;
+  border-bottom: solid 2px #d4d4d4;
+}
+
+.Account-page-header {
+  background-color: blue;
+  color: white;
+  height: 178px;
+  padding: 20px 24px 20px 24px;
+}
+
+.Account-Content {
+  background-color: green;
+  padding: 0 5px 0 5px;
+  overflow: auto;
+}
+
+.Account-OptionsBar {
+  margin: 20px 0 45px 0;
+  height: 47px;
+  background-color: black;
+  color: white;
+  border-bottom: 2px solid #ceccd1;
+}
+
+.Transactions {
+  height: 400px;
+  background-color: teal;
+  color: white;
+  border: 1px solid black;
+}
+
+.Overall-Footer {
+  height: 200px;
+  padding: 20px 24px 20px 24px;
+  color: white;
+  background-color: orange;
+}
