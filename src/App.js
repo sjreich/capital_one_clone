@@ -8,8 +8,12 @@ class App extends Component {
         <div className="Overall-header">
           <h1>Overall Header</h1>
         </div>
-        <div className="Account-page-header">
-          <h1>Account Page Header</h1>
+        <div className="Account-Page-Header">
+          <p>Account Name</p>
+          <p>360 Money Market ...1234</p>
+          <p>View Details</p>
+          <p>AVAILABLE BALANCE $123,567.89</p>
+          <div className="Transfer-Money-Button">Transfer Money</div>
         </div>
         <div className="Account-Content">
           <div className="Account-OptionsBar">
